@@ -5,3 +5,4 @@ Being a frontEnd WebDevelopment in 2023 :
 - train your body
 - read the book
 - no smoke anymore
+- talk less, do more
